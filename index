@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title> The Roomiez Podcast</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body style="background-color: #5584eb;">
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="\Users/ihate/vscode/demo/index.html">Home</a></li>
+                    <li><a href="\Users\ihate\vscode\demo\index2.html">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <div1 style=" padding-top:5px; text-align:center; line-height: 100%;">
+            <h1 style= "font-size: 100px; color: antiquewhite;">Homepage</h1>
+            <p style= "font-size: 25px; color:antiquewhite;"> xxxxxxxxxxx</p>
+        </div1>
+
+        <div id="logo"> 
+            <a href="https:youtube.com"> <ion-icon name="logo-youtube" size= "large"> </ion-icon> </a>
+            <a href="https:instagram.com"><ion-icon name="logo-instagram" size= "large" ></ion-icon></a>
+            <a href="https:Twitter.com"> <ion-icon name="logo-twitter" size= "large" ></ion-icon></a>
+            <a href="https:spotify.com"> <ion-icon name="mic-circle-outline" size = "large"></ion-icon> </a>
+        </div>
+    
+        <section> 
+            <img src="https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/field.jpg" style="height:400px; margin-left:150px; margin-bottom:50px">
+            <div style= "height:300px; background-color:#0098B5;margin-left: -100px; margin-top: 40px; margin-right:100px">
+                <h style="font-size:25px; margin: 20px; line-height:2.0; font-family: Georgia, 'Times New Roman', Times, serif; color:#F25A28"> <b> 3 personalities shoved in a dark room with too many thoughts</b></h>
+            </div>
+        </section>
+    </body>
+
+        <div style=" padding-top:5px; text-align:center; line-height: 100%; background-color: #304E44; font-size: 100px; color: #EDEBE0;" >
+            <h><b>Meet The Roomiez</b></h>
+        </div>
+
+        <section id="Allen">
+            <img src="C:\Users\ihate\Downloads\image_6487327.JPG" style= "height:500px; margin-left:100px; float:left; line-height:100%; margin-top:80px; margin-right:100px">
+            <div style="height:600px; margin-top:10px;">
+                <h1 style= "font-size:50px; color:black;"> Allen Cao</h1>
+                <p style="line-height: 2.0; font-size:15px; margin-right:50px">The DEC Network is a 501c3 nonprofit organization driving innovation and economic impact by helping entrepreneurs start, build, and grow their businesses. Since 2013, the organization has launched innovation hubs across DFW that support entrepreneurs through education and mentorship programs, advocacy efforts, and community through the acceleration of founder connections and collaborations. 
+            The DEC Network believes that an investment in entrepreneurs is an investment in North Texas communities and that by supporting and championing the Southern Dallas entrepreneur ecosystem - together - The DEC Network can help fuel greater impact for the people that live and work in Oak Cliff. The DEC Network’s Redbird location houses BIPOC entrepreneurs in its co-working space and provides signature programs to support entrepreneurs of color. Programs such as; Disrupt Dallas, Financial Readiness, and Your Level Up are all geared towards leveling the playing field for entrepreneurs of color. 
+            The Financial Readiness: A Lunch n’ Learn Series  is a 1.5 hour monthly program held at our RedBird location with the opportunity to host online sessions. It is for entrepreneurs experiencing credit issues, lack of capital, and a gap in financial backing. Program participants have the ability to start building a relationship with your institution and learn from your employees or other subject matter experts covering topics that focus on how to create a fundable business plan that can service business debt, financial statements, the importance of a positive net working capital, collateral and strong indicators of company success. </p>
+            </div>
+        </section>
+        <section id="Raymond">
+            <img src="C:\Users\ihate\Downloads\55534.jpg" style= "height:500px; margin-left:100px; float:left; line-height:100%; margin-right:100px; margin-top: 80px;">
+            <div style="height:600px; margin-top:10px;">
+                <h1 style= "font-size:50px; color:black;"> Raymond Ng</h1>
+                <p style="line-height: 2.0; font-size:15px; margin-right:50px">The DEC Network is a 501c3 nonprofit organization driving innovation and economic impact by helping entrepreneurs start, build, and grow their businesses. Since 2013, the organization has launched innovation hubs across DFW that support entrepreneurs through education and mentorship programs, advocacy efforts, and community through the acceleration of founder connections and collaborations. 
+            The DEC Network believes that an investment in entrepreneurs is an investment in North Texas communities and that by supporting and championing the Southern Dallas entrepreneur ecosystem - together - The DEC Network can help fuel greater impact for the people that live and work in Oak Cliff. The DEC Network’s Redbird location houses BIPOC entrepreneurs in its co-working space and provides signature programs to support entrepreneurs of color. Programs such as; Disrupt Dallas, Financial Readiness, and Your Level Up are all geared towards leveling the playing field for entrepreneurs of color. 
+            The Financial Readiness: A Lunch n’ Learn Series  is a 1.5 hour monthly program held at our RedBird location with the opportunity to host online sessions. It is for entrepreneurs experiencing credit issues, lack of capital, and a gap in financial backing. Program participants have the ability to start building a relationship with your institution and learn from your employees or other subject matter experts covering topics that focus on how to create a fundable business plan that can service business debt, financial statements, the importance of a positive net working capital, collateral and strong indicators of company success. </p>
+            </div>
+        </section>
+        <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</html>
